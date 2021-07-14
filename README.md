@@ -1,2 +1,2 @@
-# Fake_news_detection
+# Fake-news-detection
 self project (Machine Learning)
